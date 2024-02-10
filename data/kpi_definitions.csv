@@ -1,0 +1,15 @@
+KPI,Definition
+Orders,"Gross Orders (all orders, successful and failed)"
+Own Delivery Rate,Share of Own Delivery Orders (=orders delivered by Delivery Hero) based on Total Orders
+Contact Rate,Total number of Contacts divided by orders
+Global contact rate,Total number of entities contacts divided by total entities orders
+Own delivery contact rate,Total number of Contacts coming from Own delivery orders divided by total Own Delivery orders
+Self Service Rate,Share of sessions (user navigation in Help Center) that didn't generate any contact
+Automation rate,Share of sessions (user navigation in Help Center) that used an automation and didn't generate any contact
+% Missed Contacts,Share of incoming contacts that were dropped by the customer or didn't receive an answer from an agent
+SLA 30s,Number of served contacts that have received a first reply within 30 seconds divided by the number of incoming contacts
+AHT (min),Sum of handling time of served contacts divided by the number of served contacts
+After Contact CSAT,"Percentage of Reviews with ""Satisfied"" and ""Very Satisfied"" over CSAT responses related to interactions with agents"
+No Contact CSAT,"Percentage of Reviews with ""Satisfied"" and ""Very Satisfied"" over CSAT responses related to Help Center interactions"
+Shrinkage ,Percentage of agents' paid time that is spent unproductive
+Compensation cost,Money spent in compensations given to customers (triggered bu automations or by contacts)

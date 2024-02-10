@@ -1,0 +1,13 @@
+Entity,Department,Cost per contact [EUR]
+entity 1,Customer,$2.90
+entity 2,Customer,$0.90
+entity 3,Customer,$2.40
+entity 4,Customer,$1.00
+entity 1,Vendor,$3.68
+entity 2,Vendor,$1.25
+entity 3,Vendor,$3.22
+entity 4,Vendor,$1.34
+entity 1,Rider,$2.49
+entity 2,Rider,$0.74
+entity 3,Rider,$2.23
+entity 4,Rider,$0.99
